@@ -30,3 +30,8 @@
 26. [Intro To Linear Regression Models](docs/intro-to-linear-regression-models.md)
 27. [Train/Test Split for Linear Regression](docs/train-test-split-for-linear-regression.md)
 28. [Linear Regression And Residuals](docs/linear-regression-and-residuals.md)
+
+
+## Source
+[Tutorial](https://www.youtube.com/watch?v=keiCAmgvGqA&list=PLCC34OHNcOtqSz7Ke7kaYRf9CfviJgO55&index=2)
+[GitHub Repo](https://github.com/flatplanet/Pandas-Youtube-Playlist)
