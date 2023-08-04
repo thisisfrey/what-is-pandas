@@ -30,7 +30,7 @@ pip install pandas
 ```
 
 ## Jupyter Lab & Jupyter Notebook
-Jupyter is a popular platform for interactive computing and data analysis. Follow these steps to set up Jupyter Lab and Jupyter Notebook within the virtual environment:
+[Jupyter](https://jupyter.org/) is a popular platform for interactive computing and data analysis. Follow these steps to set up Jupyter Lab and Jupyter Notebook within the virtual environment:
 
 1. Install Jupyter Lab and Jupyter Notebook:
 ```python
