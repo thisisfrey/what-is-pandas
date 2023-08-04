@@ -1,0 +1,6 @@
+virt/
+.ipynb_checkpoints/
+.idea/
+*.ipynb
+
+# git rm -r --cached .
